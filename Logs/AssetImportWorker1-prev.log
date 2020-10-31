@@ -1,0 +1,2891 @@
+Using pre-set license
+Built from '2020.2/staging' branch; Version is '2020.2.0b7 (1b1252580c64) revision 1774162'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'en' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\unity\2020.2.0b7\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+E:/unity/New Unity Project (2)
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53708
+Successfully changed project path to: E:/unity/New Unity Project (2)
+E:/unity/New Unity Project (2)
+Using Asset Import Pipeline V2.
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Refreshing native plugins compatible for Editor in 86.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.0b7 (1b1252580c64)
+[Subsystems] Discovering subsystems at path E:/unity/2020.2.0b7/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/unity/New Unity Project (2)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4029 MB
+    Driver:   23.21.13.8873
+Initialize mono
+Mono path[0] = 'E:/unity/2020.2.0b7/Editor/Data/Managed'
+Mono path[1] = 'E:/unity/2020.2.0b7/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/unity/2020.2.0b7/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56692
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001646 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.78 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.598 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005300 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.110 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.31 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1796 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.6 MB.
+System memory in use after: 89.4 MB.
+
+Unloading 43 unused Assets to reduce memory usage. Loaded Objects now: 2305.
+Total: 2.232300 ms (FindLiveObjects: 0.426500 ms CreateObjectMapping: 0.094400 ms MarkObjects: 1.505300 ms  DeleteObjects: 0.205000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Fantasy Chess RPG Character - Arthur/Scenes/arthur.unity
+  artifactKey: Guid(3021480d86be9094a96939f95d3432d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/Scenes/arthur.unity using Guid(3021480d86be9094a96939f95d3432d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228dd4f33023e2fcd08dca55c00c61f4') in 0.073486 seconds
+  Import took 0.117666 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.480882 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/prefaps/arthur_01.prefab
+  artifactKey: Guid(7bf201eb93a64ab47857ce81b796a258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/prefaps/arthur_01.prefab using Guid(7bf201eb93a64ab47857ce81b796a258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20046c773ec4b452de1e16f85649c0f8') in 0.495459 seconds
+  Import took 0.511597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/prefaps/Main Camera.prefab
+  artifactKey: Guid(24bac8d7ea648e74cac0e84c84f4278c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/prefaps/Main Camera.prefab using Guid(24bac8d7ea648e74cac0e84c84f4278c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3f3f1cd27afad459d89c743c569ca33') in 0.009362 seconds
+  Import took 0.034833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/prefaps/Directional light.prefab
+  artifactKey: Guid(0bcc031a75dc185499c812cc0aa62dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/prefaps/Directional light.prefab using Guid(0bcc031a75dc185499c812cc0aa62dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa408999a50c44762ef9401975b79a28') in 0.007715 seconds
+  Import took 0.054190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008476 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/prefaps/Directional light.prefab
+  artifactKey: Guid(0bcc031a75dc185499c812cc0aa62dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/prefaps/Directional light.prefab using Guid(0bcc031a75dc185499c812cc0aa62dc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa408999a50c44762ef9401975b79a28') in 0.005135 seconds
+  Import took 0.009848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.207606 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/textures/arthur_01.png
+  artifactKey: Guid(9ca0e12369475af4cab2979bbfe99301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/textures/arthur_01.png using Guid(9ca0e12369475af4cab2979bbfe99301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dc7e3f04998cd5a13e70cffa40ac382') in 0.078726 seconds
+  Import took 0.088915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.050479 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/materials/arthur_01.mat
+  artifactKey: Guid(f601a107b99d6f747b404182e11b997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/materials/arthur_01.mat using Guid(f601a107b99d6f747b404182e11b997d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef4d743b2c23eadd851ca3b70017942b') in 0.380458 seconds
+  Import took 0.384550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.616835 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models/arthur_01.FBX
+  artifactKey: Guid(a6555311c0902fb47bcd2ce6066ea5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models/arthur_01.FBX using Guid(a6555311c0902fb47bcd2ce6066ea5c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '726f7b4cfae719a26b68a1aab9327bcd') in 0.340491 seconds
+  Import took 0.358680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models/arthur_attack_01.FBX
+  artifactKey: Guid(af5f9992aef69544298ef17a68a782d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models/arthur_attack_01.FBX using Guid(af5f9992aef69544298ef17a68a782d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81a35a18f251fd83ec353d1fae2f0b8f') in 0.040381 seconds
+  Import took 0.049149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models/arthur_passive_01.FBX
+  artifactKey: Guid(4cf481531bb7c59428b5af9a632f142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models/arthur_passive_01.FBX using Guid(4cf481531bb7c59428b5af9a632f142c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b50310ae7e62c8058e2b93a92668eceb') in 0.047977 seconds
+  Import took 0.069061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models/arthur_active_01.FBX
+  artifactKey: Guid(a381c88249e992f4993d820afefd140d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models/arthur_active_01.FBX using Guid(a381c88249e992f4993d820afefd140d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7754ff6d7f52c29d384fd39d86267fa4') in 0.036718 seconds
+  Import took 0.052896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models/arthur_walk_01.FBX
+  artifactKey: Guid(c87c24ff1ac76fd42a378ef5c6bb0a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models/arthur_walk_01.FBX using Guid(c87c24ff1ac76fd42a378ef5c6bb0a3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356d2677d06f981f409ba3281e2b6acf') in 0.033286 seconds
+  Import took 0.055433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models/arthur_idle_01.FBX
+  artifactKey: Guid(80212f1697003ec4d8b59bdcb908a1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models/arthur_idle_01.FBX using Guid(80212f1697003ec4d8b59bdcb908a1fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce1c5be50817c111328d15815ed31f4d') in 0.034471 seconds
+  Import took 0.059139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models/arthur_dead_01.FBX
+  artifactKey: Guid(a13371e27a0a44046b821f3ba374ca01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models/arthur_dead_01.FBX using Guid(a13371e27a0a44046b821f3ba374ca01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '741843a5ab74bc74f328012c66a4a8a6') in 0.034874 seconds
+  Import took 0.039032 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Refreshing native plugins compatible for Editor in 7.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 32 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.9 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 2350.
+Total: 2.732900 ms (FindLiveObjects: 0.314300 ms CreateObjectMapping: 0.069000 ms MarkObjects: 2.142000 ms  DeleteObjects: 0.206600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.118802 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/animator
+  artifactKey: Guid(4fe44c74d296a8246b12aa51a6a39f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/animator using Guid(4fe44c74d296a8246b12aa51a6a39f2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671fb31672e3478dbe71237fe5aec6a8') in 0.006004 seconds
+  Import took 0.041626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/Scenes
+  artifactKey: Guid(fbd2d16c89976c042b980c15d5c917d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/Scenes using Guid(fbd2d16c89976c042b980c15d5c917d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b8470471a994b24717df144b8e0de8') in 0.005894 seconds
+  Import took 0.009494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/prefaps
+  artifactKey: Guid(011f9df315988df4aa77fff0ec031e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/prefaps using Guid(011f9df315988df4aa77fff0ec031e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe31cb3fb5c2c63a1f506363a563c985') in 0.007925 seconds
+  Import took 0.026503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/textures
+  artifactKey: Guid(943385a68d6c32d45a7ec44117531c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/textures using Guid(943385a68d6c32d45a7ec44117531c1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851f07dfc50a7a0ae3e257ed426d4104') in 0.006296 seconds
+  Import took 0.009997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/materials
+  artifactKey: Guid(537c190c9e729e34bbc875abc1f143bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/materials using Guid(537c190c9e729e34bbc875abc1f143bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e122aef995c7c5438c4d8f246b96c019') in 0.006389 seconds
+  Import took 0.022765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/models
+  artifactKey: Guid(422aab72a9b13dc42a83f2a0444d94b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/models using Guid(422aab72a9b13dc42a83f2a0444d94b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8a61962b788849e97850d12cd4520be') in 0.007081 seconds
+  Import took 0.016298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX
+  artifactKey: Guid(73c280e37a38d4a4781a5e14b64e271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX using Guid(73c280e37a38d4a4781a5e14b64e271f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22aa76a4b1624181e205dbd0c018c47') in 0.005962 seconds
+  Import took 0.009684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/readme.txt
+  artifactKey: Guid(86a9589d63e907b40beae989a24e8c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/readme.txt using Guid(86a9589d63e907b40beae989a24e8c15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6bd6819e687ca99bc69edb593c53324') in 0.040219 seconds
+  Import took 0.058428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/Image
+  artifactKey: Guid(5c5aee485b048724682854765fd768e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/Image using Guid(5c5aee485b048724682854765fd768e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f672a0860a727384f416e20ef323cfe') in 0.005883 seconds
+  Import took 0.032840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001232 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/Image
+  artifactKey: Guid(5c5aee485b048724682854765fd768e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/Image using Guid(5c5aee485b048724682854765fd768e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f672a0860a727384f416e20ef323cfe') in 0.002931 seconds
+  Import took 0.006554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.535056 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/Image/ui_icon_hero_arthur.png
+  artifactKey: Guid(46d2bf8f83a47f642a51d6c922e6055a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/Image/ui_icon_hero_arthur.png using Guid(46d2bf8f83a47f642a51d6c922e6055a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eb1924186dbbeffe2fbd1eeb8fe3bc3') in 0.016568 seconds
+  Import took 0.020317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.627727 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/animation
+  artifactKey: Guid(e69f4430c37731842b3abff40d10f89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/animation using Guid(e69f4430c37731842b3abff40d10f89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61ba40149b98376da5f3b7514195476a') in 0.006056 seconds
+  Import took 0.009701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material
+  artifactKey: Guid(f2fe1da60dfa879418d6e215eae2a772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material using Guid(f2fe1da60dfa879418d6e215eae2a772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be18b48a593590dfa535b8059b0aefe4') in 0.007723 seconds
+  Import took 0.036579 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps
+  artifactKey: Guid(71fa14a58949fe24a809df884f8449a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps using Guid(71fa14a58949fe24a809df884f8449a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f2cbb52755f4d5dbebff3c16f19838') in 0.006668 seconds
+  Import took 0.022306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material
+  artifactKey: Guid(f2fe1da60dfa879418d6e215eae2a772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material using Guid(f2fe1da60dfa879418d6e215eae2a772) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be18b48a593590dfa535b8059b0aefe4') in 0.003422 seconds
+  Import took 0.007801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps
+  artifactKey: Guid(71fa14a58949fe24a809df884f8449a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps using Guid(71fa14a58949fe24a809df884f8449a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8f2cbb52755f4d5dbebff3c16f19838') in 0.002919 seconds
+  Import took 0.006574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture
+  artifactKey: Guid(a9acfbf5da0d5ab4ca278db5660cc514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture using Guid(a9acfbf5da0d5ab4ca278db5660cc514) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b51b9d0198ab4563a51c664f1274b50c') in 0.006600 seconds
+  Import took 0.010349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/mesh
+  artifactKey: Guid(74a72a515c14a2a42ae4dad629e08942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/mesh using Guid(74a72a515c14a2a42ae4dad629e08942) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cd6327635087fb3b4c2132011f232ca') in 0.006266 seconds
+  Import took 0.015385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.208832 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/animation/fx_hr_arthur_askill_01.anim
+  artifactKey: Guid(2b226e9cb8ebf6445a9121d0e64e8668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/animation/fx_hr_arthur_askill_01.anim using Guid(2b226e9cb8ebf6445a9121d0e64e8668) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f757b893fdd4e69ae6f6c4a42eac763') in 0.033390 seconds
+  Import took 0.054369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/animation/fx_hr_arthur_askill_01.controller
+  artifactKey: Guid(b91bf12863fb2774184a2816d9a13d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/animation/fx_hr_arthur_askill_01.controller using Guid(b91bf12863fb2774184a2816d9a13d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3e3c83a1a61144556a0620a32e327d') in 0.008180 seconds
+  Import took 0.025711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001236 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/animation/fx_hr_arthur_askill_01.controller
+  artifactKey: Guid(b91bf12863fb2774184a2816d9a13d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/animation/fx_hr_arthur_askill_01.controller using Guid(b91bf12863fb2774184a2816d9a13d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3e3c83a1a61144556a0620a32e327d') in 0.004913 seconds
+  Import took 0.008839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.382440 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_askill_01.prefab
+  artifactKey: Guid(3f7b232080ca3a84f98322f95b559ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_askill_01.prefab using Guid(3f7b232080ca3a84f98322f95b559ddd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9815f4dbc759729ea1838a9c91b99c28') in 0.009258 seconds
+  Import took 0.189075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_attack_01_2.prefab
+  artifactKey: Guid(a31af05c933e62548adf9eef9e37955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_attack_01_2.prefab using Guid(a31af05c933e62548adf9eef9e37955b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a30f5292cb022d4d1e10922d94ad5de1') in 0.012860 seconds
+  Import took 0.029242 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_03_1.prefab
+  artifactKey: Guid(30261511100268c409cf9f527d724d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_03_1.prefab using Guid(30261511100268c409cf9f527d724d36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30e49ee7e44967997b314f13a59e70f8') in 0.009959 seconds
+  Import took 0.014002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_attack_01_1.prefab
+  artifactKey: Guid(b7f59664cacc27e4f8ad6a18d0d6ccad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_attack_01_1.prefab using Guid(b7f59664cacc27e4f8ad6a18d0d6ccad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1620778e5850edc9b66b27ca4b0ec944') in 0.009495 seconds
+  Import took 0.014033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_03_2.prefab
+  artifactKey: Guid(9db79c551e62c774f95ff28b97a0350b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_03_2.prefab using Guid(9db79c551e62c774f95ff28b97a0350b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8320c407a7980651528675017b1e4efd') in 0.008649 seconds
+  Import took 0.019717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_01.prefab
+  artifactKey: Guid(20eb82a25ae311345b97566848da7232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_01.prefab using Guid(20eb82a25ae311345b97566848da7232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1d18015b1e4392bc3b9eaf96084e71') in 0.009398 seconds
+  Import took 0.044188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003926 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_01.prefab
+  artifactKey: Guid(20eb82a25ae311345b97566848da7232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/FX_prefaps/fx_hr_arthur_pskill_01.prefab using Guid(20eb82a25ae311345b97566848da7232) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a1d18015b1e4392bc3b9eaf96084e71') in 0.006049 seconds
+  Import took 0.012182 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.478770 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_arthur_shield.mat
+  artifactKey: Guid(a7bf8c3d77d39cc46abe4e7811e9c64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_arthur_shield.mat using Guid(a7bf8c3d77d39cc46abe4e7811e9c64b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b105d6027fa993c3c7673447f61235bd') in 0.050900 seconds
+  Import took 0.072774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_weapon_tail_03.mat
+  artifactKey: Guid(5787e63453b51af43a481714bfb2ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_weapon_tail_03.mat using Guid(5787e63453b51af43a481714bfb2ba9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c41e1298b3c031140268cbed592106c1') in 0.016092 seconds
+  Import took 0.026110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_aura_16.mat
+  artifactKey: Guid(8e5845f81456e274d960aa2136e43271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_aura_16.mat using Guid(8e5845f81456e274d960aa2136e43271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d4864517d9df1e4385703492c46cf2') in 0.019413 seconds
+  Import took 0.033154 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_spiral_05.mat
+  artifactKey: Guid(75e6d44694e081043b1e6c04b5114009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_spiral_05.mat using Guid(75e6d44694e081043b1e6c04b5114009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fb01036220611b11c7c41af24b238f1') in 0.018065 seconds
+  Import took 0.041136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_hit02_y.mat
+  artifactKey: Guid(923239c9d62a2084ca1d93b1511ce37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_hit02_y.mat using Guid(923239c9d62a2084ca1d93b1511ce37b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106007a15766fb5afb45a447de6414f7') in 0.017710 seconds
+  Import took 0.036656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_trail_sheet_02b.mat
+  artifactKey: Guid(ae0859888eedaa842a6b2e9258287143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_trail_sheet_02b.mat using Guid(ae0859888eedaa842a6b2e9258287143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc0deabbf519b975aff466c12e4103b') in 0.016248 seconds
+  Import took 0.029261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_ray_hit.mat
+  artifactKey: Guid(434898bc1918ddb468bb4d6b9f5316c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_ray_hit.mat using Guid(434898bc1918ddb468bb4d6b9f5316c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '708e1a26852f58ef3f4db479d9fa0f8c') in 0.015894 seconds
+  Import took 0.019896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_flare_02.mat
+  artifactKey: Guid(a969c0969b8d5a442b130d5321546cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_flare_02.mat using Guid(a969c0969b8d5a442b130d5321546cdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4090938678c1828780f52bc0ecf0927b') in 0.015582 seconds
+  Import took 0.019562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_weapon_tail_10.mat
+  artifactKey: Guid(b6f26b37746c1be49817e3d28aeb295b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_weapon_tail_10.mat using Guid(b6f26b37746c1be49817e3d28aeb295b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '061567c08b08f42a775a2a5470881fe1') in 0.015717 seconds
+  Import took 0.042298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_broken_decal.mat
+  artifactKey: Guid(8372f5fcda075be4292f7f717afa37a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_broken_decal.mat using Guid(8372f5fcda075be4292f7f717afa37a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c694837fa25e75a38c135cbccd99d9e') in 0.011782 seconds
+  Import took 0.015758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_flare_sheet_01.mat
+  artifactKey: Guid(53d9412f528ceb647b2b449158253c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_flare_sheet_01.mat using Guid(53d9412f528ceb647b2b449158253c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bbc507cdad0678db282e3dca3659613') in 0.020257 seconds
+  Import took 0.032028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_line_1.mat
+  artifactKey: Guid(29aa48a90e900124083659a91bd3faf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_line_1.mat using Guid(29aa48a90e900124083659a91bd3faf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c0efc325bb18b4f8b769235efad892d') in 0.016049 seconds
+  Import took 0.021312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_aura_circle_07b.mat
+  artifactKey: Guid(8749a3e6bda90204091142aa98f56fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_aura_circle_07b.mat using Guid(8749a3e6bda90204091142aa98f56fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee4ca3d806ff1842acce0428c1c997c') in 0.011903 seconds
+  Import took 0.015519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_mask_01.mat
+  artifactKey: Guid(1d919f18531a5554194bdc59e439a231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_mask_01.mat using Guid(1d919f18531a5554194bdc59e439a231) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64518ad89edccf118c3679fdbf37f14b') in 0.015801 seconds
+  Import took 0.030492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_light_decal.mat
+  artifactKey: Guid(d056323cb7b3819489d49f7ad9e3d6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/material/fx_g_light_decal.mat using Guid(d056323cb7b3819489d49f7ad9e3d6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d076326f612e44446a6f34e03a64765') in 0.015735 seconds
+  Import took 0.019466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.322650 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_arthur_crossray.FBX
+  artifactKey: Guid(cff865bb20cee8e42aad29c66b3c72d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_arthur_crossray.FBX using Guid(cff865bb20cee8e42aad29c66b3c72d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4da57efd08de171a02ff98c9f691dc38') in 0.088162 seconds
+  Import took 0.092039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_cone_02.FBX
+  artifactKey: Guid(b8e7a51f776e4c64695898d2f6cf7279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_cone_02.FBX using Guid(b8e7a51f776e4c64695898d2f6cf7279) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c2fbca7a97c60b65f5f1312b1ac303') in 0.019789 seconds
+  Import took 0.047179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_sphere_half_0.FBX
+  artifactKey: Guid(6b1ba6da0513d4049a7a003873576a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_sphere_half_0.FBX using Guid(6b1ba6da0513d4049a7a003873576a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f376f9ac541cdb14aced3e22acac3e4') in 0.019636 seconds
+  Import took 0.036726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_cross_outside.FBX
+  artifactKey: Guid(b749f217cb6f4204483378cb653d3d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_cross_outside.FBX using Guid(b749f217cb6f4204483378cb653d3d52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1d70a7d168f87d07f920a9079b80296') in 0.018995 seconds
+  Import took 0.023041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_arthur_sheild.FBX
+  artifactKey: Guid(6ec57009c04ca8f4e86731adba8976bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/mesh/fx_arthur_sheild.FBX using Guid(6ec57009c04ca8f4e86731adba8976bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4049ad848f7bc11a32a9d95b388ae346') in 0.018579 seconds
+  Import took 0.022704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.552476 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_arthur_shield.png
+  artifactKey: Guid(a0fd4d32ee79ff94eaf10daba7eab3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_arthur_shield.png using Guid(a0fd4d32ee79ff94eaf10daba7eab3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fcc6bb018da56eb6ba305807e7ca31d') in 0.014104 seconds
+  Import took 0.017711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_spiral_05.png
+  artifactKey: Guid(b17ade05df5306a4d83d4272b95b9871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_spiral_05.png using Guid(b17ade05df5306a4d83d4272b95b9871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e1d478b2ca0194d3420f23a53bbaac') in 0.029762 seconds
+  Import took 0.050644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_light_decal.PNG
+  artifactKey: Guid(dd73d65a76bcb6545b317b900a3c8596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_light_decal.PNG using Guid(dd73d65a76bcb6545b317b900a3c8596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88660130e7a6ef0b7255c40895d81843') in 0.017825 seconds
+  Import took 0.036879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_line_1.png
+  artifactKey: Guid(530f162aa1297da46b04b9e36a71d375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_line_1.png using Guid(530f162aa1297da46b04b9e36a71d375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc29c7b6dc626ea5e7b585f1c64d9bc5') in 0.011095 seconds
+  Import took 0.037296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_flare_sheet_01.png
+  artifactKey: Guid(27af3b21359108745b82be4502e4a89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_flare_sheet_01.png using Guid(27af3b21359108745b82be4502e4a89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '941ecaf917e9d4a4a78ad1403291d3cd') in 0.011879 seconds
+  Import took 0.030994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_aura_16.png
+  artifactKey: Guid(acada208e8db58e4a8f835b0ab245c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_aura_16.png using Guid(acada208e8db58e4a8f835b0ab245c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6420318a06ae1696a042ecbc7f6ed2e') in 0.011725 seconds
+  Import took 0.015376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_trail_sheet_02b.png
+  artifactKey: Guid(46df164a106b17045b0bc816bad420bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_trail_sheet_02b.png using Guid(46df164a106b17045b0bc816bad420bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b3027a1b3b78a7fac62b7fb2ba3669a') in 0.046168 seconds
+  Import took 0.073721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_mask_01.tga
+  artifactKey: Guid(22a9af796acb79e4f9131cc3780ed976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_mask_01.tga using Guid(22a9af796acb79e4f9131cc3780ed976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5410b722483343db3771686577b33c3a') in 0.041694 seconds
+  Import took 0.045991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_ray_hit.png
+  artifactKey: Guid(78d8d1cf8d094084bae6d51526b5541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_ray_hit.png using Guid(78d8d1cf8d094084bae6d51526b5541c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b15a03a85d997d27dcf62e056bf69a9') in 0.012647 seconds
+  Import took 0.017757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_weapon_tail_10.png
+  artifactKey: Guid(944443f58e83fce429f7589b8cd9a4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_weapon_tail_10.png using Guid(944443f58e83fce429f7589b8cd9a4f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1334ba9132e822616c728b33eae10324') in 0.017394 seconds
+  Import took 0.021500 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_hit02_y.png
+  artifactKey: Guid(7ddfbef090d8da84ca0f3afb84f60df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_hit02_y.png using Guid(7ddfbef090d8da84ca0f3afb84f60df5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae08e6720a9408d36f43b06c7d140b35') in 0.024229 seconds
+  Import took 0.031436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_weapon_tail_03.png
+  artifactKey: Guid(14f08cb010d96df4a98cdc822597ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_weapon_tail_03.png using Guid(14f08cb010d96df4a98cdc822597ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ae36fe6f57be5b114019db6fcc768b') in 0.013963 seconds
+  Import took 0.033514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003900 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_weapon_tail_03.png
+  artifactKey: Guid(14f08cb010d96df4a98cdc822597ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur/FX/texture/fx_g_weapon_tail_03.png using Guid(14f08cb010d96df4a98cdc822597ec92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17ae36fe6f57be5b114019db6fcc768b') in 0.008480 seconds
+  Import took 0.013084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.660496 seconds.
+  path: Assets/Scenes/Halloween_Level.unity
+  artifactKey: Guid(ec3d8be4b4aea48e8953198ee4f7e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_Level.unity using Guid(ec3d8be4b4aea48e8953198ee4f7e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa86eb808e8b38bf1d1c656e3bb06952') in 0.006374 seconds
+  Import took 0.010530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Scenes/Halloween_LevelSettings.lighting
+  artifactKey: Guid(3cf80a89fa0a76148b12b599c1386581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_LevelSettings.lighting using Guid(3cf80a89fa0a76148b12b599c1386581) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'f44a27675804c3787651e0926e29e1f4') in 0.022714 seconds
+  Import took 0.043386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001497 seconds.
+  path: Assets/Scenes/Halloween_LevelSettings.lighting
+  artifactKey: Guid(3cf80a89fa0a76148b12b599c1386581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_LevelSettings.lighting using Guid(3cf80a89fa0a76148b12b599c1386581) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'f44a27675804c3787651e0926e29e1f4') in 0.003818 seconds
+  Import took 0.008245 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001073 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 49.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.821 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004118 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.758 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.9 MB.
+System memory in use after: 57.7 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2356.
+Total: 2.295900 ms (FindLiveObjects: 0.404200 ms CreateObjectMapping: 0.101400 ms MarkObjects: 1.591700 ms  DeleteObjects: 0.197100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 286.464892 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models
+  artifactKey: Guid(68ae0c937216cf748995e052778f5195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models using Guid(68ae0c937216cf748995e052778f5195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75140d2ee78714d203cccfc04e6a544d') in 0.006873 seconds
+  Import took 0.010728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Readme.txt
+  artifactKey: Guid(8dae1e9da7bb2c9429d5cd259da7abfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Readme.txt using Guid(8dae1e9da7bb2c9429d5cd259da7abfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33acca7a1691df4942684b7313d4c737') in 0.020149 seconds
+  Import took 0.037597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes
+  artifactKey: Guid(fd76cfe18cef44e43bf1dcaec9451cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes using Guid(fd76cfe18cef44e43bf1dcaec9451cd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a68fc27e79ad9585398b35b4faf0ee89') in 0.006342 seconds
+  Import took 0.010350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps
+  artifactKey: Guid(4182e60ed7544424f8f619c463f7eb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps using Guid(4182e60ed7544424f8f619c463f7eb4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99e5fd301949dae6992fb3574af78c34') in 0.007547 seconds
+  Import took 0.011879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid
+  artifactKey: Guid(e3e00ad44ab8b6849868bd9aa4865028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Models_humanoid using Guid(e3e00ad44ab8b6849868bd9aa4865028) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '395781b612c0608c25454fd78305ce7e') in 0.006454 seconds
+  Import took 0.010800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.387168 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes/Oriental Fantasy Character - Berserker Grade 0_Split_Generic.unity
+  artifactKey: Guid(fab125d90c4ee9347b88b88096badde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes/Oriental Fantasy Character - Berserker Grade 0_Split_Generic.unity using Guid(fab125d90c4ee9347b88b88096badde9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329d9eefc5440fefeb72b1821060e99b') in 0.014183 seconds
+  Import took 0.047153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes/Oriental Fantasy Character - Berserker Grade 0_Total_Generic.unity
+  artifactKey: Guid(9b252faef2e788949ac55a59b1ae6560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes/Oriental Fantasy Character - Berserker Grade 0_Total_Generic.unity using Guid(9b252faef2e788949ac55a59b1ae6560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d72131120cc611c10384bb2d20c471b') in 0.009210 seconds
+  Import took 0.024047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes/Oriental Fantasy Character - Berserker Grade 0_Total_Humanoid.unity
+  artifactKey: Guid(7a4b58a3f0c88204dac4a1f7cffead62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Scenes/Oriental Fantasy Character - Berserker Grade 0_Total_Humanoid.unity using Guid(7a4b58a3f0c88204dac4a1f7cffead62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a908dd97f70b8dc50417bc4dd54f2be6') in 0.006351 seconds
+  Import took 0.009578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.793888 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Split_Generic.prefab
+  artifactKey: Guid(2780b4a23df25d94da2eb5f5b08ee659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Split_Generic.prefab using Guid(2780b4a23df25d94da2eb5f5b08ee659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6227ea78a5e54fa3386114905395cb85') in 0.134713 seconds
+  Import took 0.141763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Total_Humanoid.prefab
+  artifactKey: Guid(ae291f65123b35a45893ece8492c178d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Total_Humanoid.prefab using Guid(ae291f65123b35a45893ece8492c178d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db6fe19db24ec01cd6461d45b6146a4') in 0.045542 seconds
+  Import took 0.074225 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Directional light.prefab
+  artifactKey: Guid(1a70f088ff7ff83498a242ab424ff647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Directional light.prefab using Guid(1a70f088ff7ff83498a242ab424ff647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d37ca950f0e47d1e70ce6f7071e90a5') in 0.004546 seconds
+  Import took 0.008466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Main Camera.prefab
+  artifactKey: Guid(007bb8202bd0ba84bb63d7c4ee325305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Main Camera.prefab using Guid(007bb8202bd0ba84bb63d7c4ee325305) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0234b9d46109e1dbcd69e7818a789f3') in 0.008167 seconds
+  Import took 0.012327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Total_Generic.prefab
+  artifactKey: Guid(04e4b61edac24934e912f9b15cb60717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1/Prefaps/Berserker Grade 0_Total_Generic.prefab using Guid(04e4b61edac24934e912f9b15cb60717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ab398140bd4c484beec89cb903f2e2e') in 0.064626 seconds
+  Import took 0.082203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.445876 seconds.
+  path: Assets/NGUI/Editor
+  artifactKey: Guid(758918150efa45649853cd95d8a77a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Editor using Guid(758918150efa45649853cd95d8a77a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca14da2a8b76177433ff392867e9de5') in 0.024776 seconds
+  Import took 0.042105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/NGUI/ReadMe - 3.6.1.txt
+  artifactKey: Guid(05d75e209a8e9dc4096a834edfea27bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/ReadMe - 3.6.1.txt using Guid(05d75e209a8e9dc4096a834edfea27bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a56de81f550a822e098d71839a77447a') in 0.054142 seconds
+  Import took 0.058531 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/NGUI/Examples
+  artifactKey: Guid(be557f62ef02c684882de16808a1df19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Examples using Guid(be557f62ef02c684882de16808a1df19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc460f302e811eb8d2a0aa07aed59be3') in 0.006154 seconds
+  Import took 0.010392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/NGUI/Scripts
+  artifactKey: Guid(7605e19ea55f7ee4d933bceaf9ddcf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts using Guid(7605e19ea55f7ee4d933bceaf9ddcf8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda4a8af3a7a274d74f18a67981c4238') in 0.007191 seconds
+  Import took 0.029660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/NGUI/Resources
+  artifactKey: Guid(2ac10b5704816b84dbb53d795799addd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Resources using Guid(2ac10b5704816b84dbb53d795799addd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c19e93d3d50438767403e1be21fa05') in 0.007152 seconds
+  Import took 0.012989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.518382 seconds.
+  path: Assets/Scenes/Halloween_Level.unity
+  artifactKey: Guid(ec3d8be4b4aea48e8953198ee4f7e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_Level.unity using Guid(ec3d8be4b4aea48e8953198ee4f7e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1cf99c65090c91faadb30656fa724d1') in 0.004194 seconds
+  Import took 0.009996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001863 seconds.
+  path: Assets/Scenes/Halloween_Level.unity
+  artifactKey: Guid(ec3d8be4b4aea48e8953198ee4f7e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_Level.unity using Guid(ec3d8be4b4aea48e8953198ee4f7e6b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1cf99c65090c91faadb30656fa724d1') in 0.003072 seconds
+  Import took 0.007953 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001094 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 57.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004227 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.787 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.5 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2361.
+Total: 2.173100 ms (FindLiveObjects: 0.383100 ms CreateObjectMapping: 0.096300 ms MarkObjects: 1.472400 ms  DeleteObjects: 0.220100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 252.905406 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/for Locomotion
+  artifactKey: Guid(ecbe772564a05eb429f07890b611423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/for Locomotion using Guid(ecbe772564a05eb429f07890b611423f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6885c457d4196d52d7d09fbe690d1fc3') in 0.006567 seconds
+  Import took 0.081160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/BoxUnityChan.prefab
+  artifactKey: Guid(6788413dff62c534d8ca610faef3c7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/BoxUnityChan.prefab using Guid(6788413dff62c534d8ca610faef3c7a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c25a6089e234684e9a053b8dde79880c') in 0.265303 seconds
+  Import took 0.304880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/LookPos.prefab
+  artifactKey: Guid(6d5bff5837eca402492a89073b17c2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/LookPos.prefab using Guid(6d5bff5837eca402492a89073b17c2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4b7118e12eee8dd996160100b075dd') in 0.011760 seconds
+  Import took 0.057863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/LevelLoader.prefab
+  artifactKey: Guid(cd7e5cc2b3a974d4f830ea9d14a6383b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/LevelLoader.prefab using Guid(cd7e5cc2b3a974d4f830ea9d14a6383b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e08937bcb2fb3d314308b0119d37797') in 0.009739 seconds
+  Import took 0.018021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/unitychan.prefab
+  artifactKey: Guid(412b92d4feeb9c548bfa98f62c4d1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/unitychan.prefab using Guid(412b92d4feeb9c548bfa98f62c4d1022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3826554015594692c309bd8ca73b3ad4') in 0.993761 seconds
+  Import took 0.998455 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab
+  artifactKey: Guid(b76c71a1e3f6c4fdab657f4fbf5466de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/Directional light for UnityChan.prefab using Guid(b76c71a1e3f6c4fdab657f4fbf5466de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1e9ff9040a7ce86d8daeee9cbed17a') in 0.009831 seconds
+  Import took 0.015185 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001090 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.862 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004127 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.803 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.97 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.6 MB.
+System memory in use after: 59.4 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2366.
+Total: 2.210900 ms (FindLiveObjects: 0.354600 ms CreateObjectMapping: 0.086200 ms MarkObjects: 1.568600 ms  DeleteObjects: 0.200600 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001099 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004104 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.905 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.6 MB.
+System memory in use after: 59.5 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2370.
+Total: 2.286400 ms (FindLiveObjects: 0.452600 ms CreateObjectMapping: 0.105600 ms MarkObjects: 1.513300 ms  DeleteObjects: 0.213500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1554.405378 seconds.
+  path: Assets/Characters/Scripts/Enemy
+  artifactKey: Guid(ff613d656e53c1b4b8d64e9a3d8332fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/Enemy using Guid(ff613d656e53c1b4b8d64e9a3d8332fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b107f51c696cdaa7ff1278ee22a038cf') in 0.128557 seconds
+  Import took 0.133385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Characters/Scripts/GamePlayer
+  artifactKey: Guid(14b4203033754134fbfaed2ab3a5ae06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/GamePlayer using Guid(14b4203033754134fbfaed2ab3a5ae06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82285272b403c294ebcff3eea8c909b4') in 0.008594 seconds
+  Import took 0.012957 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Characters/Scripts/Utils
+  artifactKey: Guid(3d4c99f2feb863c49ada73056e59a178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/Utils using Guid(3d4c99f2feb863c49ada73056e59a178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b6c8202c2401c5222890f98f11e91b') in 0.007631 seconds
+  Import took 0.011826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.061784 seconds.
+  path: Assets/Characters/Scripts/Enemy/EnemyCharacter.cs
+  artifactKey: Guid(734df6dd88dec754998b64a6e4c4c4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/Enemy/EnemyCharacter.cs using Guid(734df6dd88dec754998b64a6e4c4c4a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b0d812f829528d58443466a7e6134b') in 0.034005 seconds
+  Import took 0.038005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.458745 seconds.
+  path: Assets/Characters/Scripts/GamePlayer/CameraShake.cs
+  artifactKey: Guid(37ebf8bc4c83b284fa73a2ecb5ac4eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/GamePlayer/CameraShake.cs using Guid(37ebf8bc4c83b284fa73a2ecb5ac4eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f566fb0981356d4fdef4b5e725319f') in 0.005817 seconds
+  Import took 0.129444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Characters/Scripts/GamePlayer/PlayerUserControl.cs
+  artifactKey: Guid(4bdce3c68951b174580f7d52eb846460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/GamePlayer/PlayerUserControl.cs using Guid(4bdce3c68951b174580f7d52eb846460) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629174855c6c60948ee1065c360db909') in 0.007171 seconds
+  Import took 0.011222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Characters/Scripts/GamePlayer/PlayerCharacter.cs
+  artifactKey: Guid(78b8fa99e10d47340a875be3e51222a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/GamePlayer/PlayerCharacter.cs using Guid(78b8fa99e10d47340a875be3e51222a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf1363d9a9b929b9df6b8f94ae74ae3') in 0.007625 seconds
+  Import took 0.020452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Characters/Scripts/GamePlayer/SimpleMouseRotator.cs
+  artifactKey: Guid(3e08e8f786a269e4589b1384286d9fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/GamePlayer/SimpleMouseRotator.cs using Guid(3e08e8f786a269e4589b1384286d9fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e89fb686b22846b962e6fcf3a4303e17') in 0.007005 seconds
+  Import took 0.032725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.687760 seconds.
+  path: Assets/Characters/Scripts/Utils/BaseCharacter.cs
+  artifactKey: Guid(80f336a4da63d384290540b416b93b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/Utils/BaseCharacter.cs using Guid(80f336a4da63d384290540b416b93b14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '663fa1d3d3d44e3ae54ba0dd7e36934b') in 0.006292 seconds
+  Import took 0.118866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Characters/Scripts/Utils/CharacterAttribute.cs
+  artifactKey: Guid(fe505584d3b2024459e01b2599bad578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/Utils/CharacterAttribute.cs using Guid(fe505584d3b2024459e01b2599bad578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2325c6d7990b1212a55b67d88e7b960') in 0.009477 seconds
+  Import took 0.040626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000650 seconds.
+  path: Assets/Characters/Scripts/Utils/CharacterAttribute.cs
+  artifactKey: Guid(fe505584d3b2024459e01b2599bad578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Scripts/Utils/CharacterAttribute.cs using Guid(fe505584d3b2024459e01b2599bad578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2325c6d7990b1212a55b67d88e7b960') in 0.004298 seconds
+  Import took 0.010249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 263.864182 seconds.
+  path: Assets/Characters/Animators/TrollAnimator.controller
+  artifactKey: Guid(0768dcba4a9da0e4bb7ce8dff64a5773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Animators/TrollAnimator.controller using Guid(0768dcba4a9da0e4bb7ce8dff64a5773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3f4e75cce1e30ce4c95f5601eb2067') in 0.324037 seconds
+  Import took 0.346605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Characters/Animators/UnityChanAnimator.controller
+  artifactKey: Guid(e2cf68ff4b1ffda45a77f7307dd789b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Animators/UnityChanAnimator.controller using Guid(e2cf68ff4b1ffda45a77f7307dd789b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa9083dee0352d903337f05e7c769d12') in 0.632969 seconds
+  Import took 0.638206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.230235 seconds.
+  path: Assets/Characters/Animations/New Animation.anim
+  artifactKey: Guid(3eb02cd7300577a48a27c3c94d4d71e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Animations/New Animation.anim using Guid(3eb02cd7300577a48a27c3c94d4d71e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234dc4572675ffc2d8eb8b7c6a2044d7') in 0.231321 seconds
+  Import took 0.249860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Characters/Animations/unitychan.controller
+  artifactKey: Guid(a755c72ba4ba48345a6cfe87fc92a40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Characters/Animations/unitychan.controller using Guid(a755c72ba4ba48345a6cfe87fc92a40e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45138fd3025fbb2864d4300cd45f297d') in 0.019891 seconds
+  Import took 0.043638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.661606 seconds.
+  path: Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs
+  artifactKey: Guid(db7667203062c644ea1877077e30ebd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/CrossPlatformInput/CrossPlatformInputInitialize.cs using Guid(db7667203062c644ea1877077e30ebd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9384a7fa0768fc625b954635bb94ee9e') in 0.006136 seconds
+  Import took 0.106344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.801635 seconds.
+  path: Assets/Effects/Scripts/FireProjectile.cs
+  artifactKey: Guid(7e603c89bda04144597244fc2726cf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/FireProjectile.cs using Guid(7e603c89bda04144597244fc2726cf3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16347af305fe7b4a3e54746bc9d64b95') in 0.007144 seconds
+  Import took 0.010811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Effects/Scripts/ProjectileScript.cs
+  artifactKey: Guid(07bc5fd2ae3a38045a72283fa0495325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/ProjectileScript.cs using Guid(07bc5fd2ae3a38045a72283fa0495325) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bbd972f394a2b04427b3bf1300011fb') in 0.010284 seconds
+  Import took 0.115526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Effects/Scripts/HUDFPS.cs
+  artifactKey: Guid(b1a41b8bd803f2242a75f07c1a99df21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/HUDFPS.cs using Guid(b1a41b8bd803f2242a75f07c1a99df21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b298c3192cf90b04948d809069d80ae5') in 0.006043 seconds
+  Import took 0.009410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Effects/Scripts/lightScriptLong.cs
+  artifactKey: Guid(e6cb6f9ea07b2db43ae53bf0f7fc84e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/lightScriptLong.cs using Guid(e6cb6f9ea07b2db43ae53bf0f7fc84e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '439314d89e1b4d3cb1a581e90ef3c9ff') in 0.007909 seconds
+  Import took 0.013395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Effects/Scripts/lightScript.cs
+  artifactKey: Guid(b8ab53353c913eb4ab792dfdcb537755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/lightScript.cs using Guid(b8ab53353c913eb4ab792dfdcb537755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d29f9cdd8fa6933bcc2b84b2dcb9f07') in 0.008422 seconds
+  Import took 0.025892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Effects/Scripts/Projectile.cs
+  artifactKey: Guid(662021af1b90b7248bab872b92a27f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/Projectile.cs using Guid(662021af1b90b7248bab872b92a27f0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1a645bb098fdd94f065a8fb1edb93a5') in 0.006782 seconds
+  Import took 0.011993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Effects/Scripts/MyGUI.cs
+  artifactKey: Guid(193d92620b4f1ac45b9101c274aad2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/MyGUI.cs using Guid(193d92620b4f1ac45b9101c274aad2ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95b6d4f895978266e4c27ba57164840e') in 0.006189 seconds
+  Import took 0.025514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Effects/Scripts/RotateParticles.js
+  artifactKey: Guid(0f29d63276aff0d4f9a92f67bee2ce92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Effects/Scripts/RotateParticles.js using Guid(0f29d63276aff0d4f9a92f67bee2ce92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad8ddd477a0bccb016969ba3cc84015') in 0.119066 seconds
+  Import took 0.144725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.366651 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab
+  artifactKey: Guid(65eb07d65eb184e13a4b388eced0d32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/CamPos.prefab using Guid(65eb07d65eb184e13a4b388eced0d32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f2a0d3811db33c409ee396a00e6e80') in 0.041277 seconds
+  Import took 0.045555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab
+  artifactKey: Guid(5ab36471a20d548e1b89d3501e011ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/FrontPos.prefab using Guid(5ab36471a20d548e1b89d3501e011ada) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfe1bb9e93422152e41dcadea5e08b00') in 0.007609 seconds
+  Import took 0.031469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab
+  artifactKey: Guid(2801f2532c4364c8696fc1dc3b4c6a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/JumpPos.prefab using Guid(2801f2532c4364c8696fc1dc3b4c6a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f01379fe184695aa496bc2817f30d44e') in 0.017463 seconds
+  Import took 0.050932 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab
+  artifactKey: Guid(efaf5c7817edc41d68744ffe3a3dbeb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/LookAtPos.prefab using Guid(efaf5c7817edc41d68744ffe3a3dbeb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '411b38d595935f72f2fde5576f448718') in 0.006787 seconds
+  Import took 0.026610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab
+  artifactKey: Guid(40046bae76ac54bffb59f14f47d9ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/unitychan.prefab using Guid(40046bae76ac54bffb59f14f47d9ba1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8992518e8afc41be6bd08d52252008be') in 0.773157 seconds
+  Import took 0.777729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab
+  artifactKey: Guid(79674db77adfc4d6f9f17fb043493b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Prefabs/for Locomotion/Main Camera.prefab using Guid(79674db77adfc4d6f9f17fb043493b1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6bdfb85602e5da2bc31eba4404b59a2') in 0.006112 seconds
+  Import took 0.027669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.238044 seconds.
+  path: Assets/Imported Assets/UnityChan/Scenes/ActionCheck.unity
+  artifactKey: Guid(82af19ed76a8ed74fb1dd5d45c780da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Scenes/ActionCheck.unity using Guid(82af19ed76a8ed74fb1dd5d45c780da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecefcc58cadf00a9a83f27612608b6a3') in 0.006175 seconds
+  Import took 0.010650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Imported Assets/UnityChan/Scenes/ARPoseTest.unity
+  artifactKey: Guid(dc19d125674d55e4395fbb75f6d6f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Scenes/ARPoseTest.unity using Guid(dc19d125674d55e4395fbb75f6d6f855) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f38c9bc13030b3eaee5e319e790f913b') in 0.010427 seconds
+  Import took 0.116616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Imported Assets/UnityChan/Scenes/Locomotion.unity
+  artifactKey: Guid(957eefe92df624143ad9333b8bc01eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Scenes/Locomotion.unity using Guid(957eefe92df624143ad9333b8bc01eb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e9948d842b01a6bb2b1e22f1ac86c1') in 0.008296 seconds
+  Import took 0.011729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.157683 seconds.
+  path: Assets/Imported Assets/UnityChan/Stage/Materials
+  artifactKey: Guid(0e9c494d59188f94597f27a013ffc173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Stage/Materials using Guid(0e9c494d59188f94597f27a013ffc173) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8334880de61883aa233c7e54947cfb3a') in 0.005862 seconds
+  Import took 0.010570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Imported Assets/UnityChan/Stage/Shader
+  artifactKey: Guid(eb294dcb2dc40b04192c6b4ca8a877c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Stage/Shader using Guid(eb294dcb2dc40b04192c6b4ca8a877c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b7221bad9eb7a1262856f26e024c22') in 0.006648 seconds
+  Import took 0.102067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Imported Assets/UnityChan/Stage/Textures
+  artifactKey: Guid(e0954a6fa95257b4c9d97828c590fa21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Stage/Textures using Guid(e0954a6fa95257b4c9d97828c590fa21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58666db25d3fd0444919857e36689bf9') in 0.008061 seconds
+  Import took 0.012106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Imported Assets/UnityChan/Stage/Shader
+  artifactKey: Guid(eb294dcb2dc40b04192c6b4ca8a877c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Stage/Shader using Guid(eb294dcb2dc40b04192c6b4ca8a877c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42b7221bad9eb7a1262856f26e024c22') in 0.002819 seconds
+  Import took 0.006829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.007161 seconds.
+  path: Assets/Imported Assets/UnityChan/Stage/Textures
+  artifactKey: Guid(e0954a6fa95257b4c9d97828c590fa21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/UnityChan/Stage/Textures using Guid(e0954a6fa95257b4c9d97828c590fa21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58666db25d3fd0444919857e36689bf9') in 0.002724 seconds
+  Import took 0.006654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.795077 seconds.
+  path: Assets/Imported Assets/Wizard/Models
+  artifactKey: Guid(1ee570cb9cd1aea4c87137d10772ccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Wizard/Models using Guid(1ee570cb9cd1aea4c87137d10772ccd6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47d4a8136119b8153371f39a313962f6') in 0.002531 seconds
+  Import took 0.047599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.107607 seconds.
+  path: Assets/Imported Assets/Wizard/Models/Materials
+  artifactKey: Guid(d70fe29750921524c82564fb7cff2a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Wizard/Models/Materials using Guid(d70fe29750921524c82564fb7cff2a8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a744f75d8da2baedc6e5d936ddca9b43') in 0.002778 seconds
+  Import took 0.006750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Imported Assets/Wizard/Models/Player1.fbm
+  artifactKey: Guid(fb9080e823f1fa449aadb15b6a18d066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Wizard/Models/Player1.fbm using Guid(fb9080e823f1fa449aadb15b6a18d066) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685047d1921f93d6500b1221278f6545') in 0.011820 seconds
+  Import took 0.016391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Imported Assets/Wizard/Models/Player1.FBX
+  artifactKey: Guid(436c4583f474c934bad033cdb66ef619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported Assets/Wizard/Models/Player1.FBX using Guid(436c4583f474c934bad033cdb66ef619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18a05c2a95f9d04415be03f055695853') in 1.218983 seconds
+  Import took 1.248383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.525716 seconds.
+  path: Assets/Inventory/scripts/Equip_Manager.cs
+  artifactKey: Guid(3d7ee117160cd5b4a839c75e7e83e236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Equip_Manager.cs using Guid(3d7ee117160cd5b4a839c75e7e83e236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60a42bca891f3df952d2de1f8451d477') in 0.005968 seconds
+  Import took 0.103619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Inventory/scripts/Skill_UI.cs
+  artifactKey: Guid(73bc2c3ac783889468a44158e971a656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Skill_UI.cs using Guid(73bc2c3ac783889468a44158e971a656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7b51f115878899bf1312a57768c5dac') in 0.007602 seconds
+  Import took 0.022201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Inventory/scripts/ScrollBar.cs
+  artifactKey: Guid(05e06428d0ed243448a27cf25e73f968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/ScrollBar.cs using Guid(05e06428d0ed243448a27cf25e73f968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e56f8d3a3e594b7b5e8c4c53b3af2bb') in 0.006033 seconds
+  Import took 0.043668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Inventory/scripts/StoreCell.cs
+  artifactKey: Guid(2c13b412017fac84db5f8b2bbf39343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/StoreCell.cs using Guid(2c13b412017fac84db5f8b2bbf39343e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabddf491288b84965487a0e54e0df8c') in 0.007522 seconds
+  Import took 0.012112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Inventory/scripts/Key.cs
+  artifactKey: Guid(374ef0e393b6e0e4099c32cf47cde631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Key.cs using Guid(374ef0e393b6e0e4099c32cf47cde631) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3559aa584ca759047abf361e77e52662') in 0.006299 seconds
+  Import took 0.029112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Inventory/scripts/SkillDatebase.cs
+  artifactKey: Guid(675363754b1793941818fe41aee82165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/SkillDatebase.cs using Guid(675363754b1793941818fe41aee82165) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f234199b8011f5770d6c944513f917') in 0.006096 seconds
+  Import took 0.024680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Inventory/scripts/Store_Shop.cs
+  artifactKey: Guid(2e6fac0cfd36a5c4eab2622048c1f63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Store_Shop.cs using Guid(2e6fac0cfd36a5c4eab2622048c1f63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd29a38dcd8a0b66e286cba4b86b87eb9') in 0.006356 seconds
+  Import took 0.010291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Inventory/scripts/Skill_Up.cs
+  artifactKey: Guid(a0d35f78864165b4ca7c79377ec90538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Skill_Up.cs using Guid(a0d35f78864165b4ca7c79377ec90538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a39dd9f807a07d3c16943b1b74b7cf7a') in 0.006490 seconds
+  Import took 0.010616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Inventory/scripts/ItemDatebase.cs
+  artifactKey: Guid(53e0e8581430ce64886069c493a282fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/ItemDatebase.cs using Guid(53e0e8581430ce64886069c493a282fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d16a4410a4a7aaecb48214943739b9a') in 0.006154 seconds
+  Import took 0.010110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Inventory/scripts/Inventory2.cs
+  artifactKey: Guid(a187c986f46b8f54bbf69dce3de60d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Inventory2.cs using Guid(a187c986f46b8f54bbf69dce3de60d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309d018cc527950f502cccb3fc7b39da') in 0.006731 seconds
+  Import took 0.046073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Inventory/scripts/SkillCell.cs
+  artifactKey: Guid(b6ab9140b772f3e4eb17acf7a89ecf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/SkillCell.cs using Guid(b6ab9140b772f3e4eb17acf7a89ecf22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd2941d1c7a68a4e4713c095093ae83e') in 0.008723 seconds
+  Import took 0.013747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Inventory/scripts/ItemCell.cs
+  artifactKey: Guid(b2ac0a9c92c42f4489cc42f47fd431bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/ItemCell.cs using Guid(b2ac0a9c92c42f4489cc42f47fd431bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '121be9be93bdebc364346d478063c96b') in 0.007777 seconds
+  Import took 0.015022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/Inventory/scripts/SaveDate.cs
+  artifactKey: Guid(33f87b5a00e7cef45a13ee513618b134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/SaveDate.cs using Guid(33f87b5a00e7cef45a13ee513618b134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18330de1dce53ecf6afbcfcc49a32a94') in 0.008153 seconds
+  Import took 0.012898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Inventory/scripts/EquipCell.cs
+  artifactKey: Guid(c20b02165fa07a54787f0cb0327788b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/EquipCell.cs using Guid(c20b02165fa07a54787f0cb0327788b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d3b8bf09169fb8397cb1560822304a5') in 0.006359 seconds
+  Import took 0.010450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Inventory/scripts/KeyCell.cs
+  artifactKey: Guid(d381fc8a4264a8342b6c0cbb97e673ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/KeyCell.cs using Guid(d381fc8a4264a8342b6c0cbb97e673ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74dec9c676f34fcf8ff1c03c9078e72b') in 0.006519 seconds
+  Import took 0.010087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Inventory/scripts/Money.cs
+  artifactKey: Guid(3c9acaff98013e346a2cdbba8891ae9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Money.cs using Guid(3c9acaff98013e346a2cdbba8891ae9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6552bd13257bcc75c445cc3dd7ceac9') in 0.007073 seconds
+  Import took 0.011568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Inventory/scripts/Singleton.cs
+  artifactKey: Guid(4168ecb0f3df98a43ae251f4870db6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Singleton.cs using Guid(4168ecb0f3df98a43ae251f4870db6c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef046e8fb2382673cdb1c74404d80947') in 0.006340 seconds
+  Import took 0.021479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Inventory/scripts/Inventory.cs
+  artifactKey: Guid(c9afc879a81a8d140b22ca836f8942fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Inventory.cs using Guid(c9afc879a81a8d140b22ca836f8942fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13212b8a13b2e76d7fff05bd94bb3f29') in 0.006608 seconds
+  Import took 0.010533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Inventory/scripts/item.cs
+  artifactKey: Guid(2cd4a7a58fdaca74db6cdafcb169aa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/item.cs using Guid(2cd4a7a58fdaca74db6cdafcb169aa3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0f13332c544cdedb18145e776c9b4ce') in 0.006100 seconds
+  Import took 0.009881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Inventory/scripts/Store.cs
+  artifactKey: Guid(c8d5079c721e2c048b7d6869dd74e691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Store.cs using Guid(c8d5079c721e2c048b7d6869dd74e691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc33b2bf339e24f1497ea18f706135d') in 0.007518 seconds
+  Import took 0.012396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Inventory/scripts/UI_Manager.cs
+  artifactKey: Guid(20da7267f8f4a7147b02d07ea44e1968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/UI_Manager.cs using Guid(20da7267f8f4a7147b02d07ea44e1968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21609ef089b3f14785e12300f23c1853') in 0.006100 seconds
+  Import took 0.009911 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Inventory/scripts/Skill.cs
+  artifactKey: Guid(39e0c2a4abd6a9c41b19c2328c8da060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Inventory/scripts/Skill.cs using Guid(39e0c2a4abd6a9c41b19c2328c8da060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4a3f9c3753cdfd147dda2ca70a54142') in 0.006783 seconds
+  Import took 0.018753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.179389 seconds.
+  path: Assets/NGUI/Scripts/Editor/ActiveAnimationEditor.cs
+  artifactKey: Guid(3ba9ab789855b274fa543308ac44781b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/ActiveAnimationEditor.cs using Guid(3ba9ab789855b274fa543308ac44781b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481c056ecb90cb536866474749c670a1') in 0.005849 seconds
+  Import took 0.126756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/NGUI/Scripts/Editor/EventDelegateEditor.cs
+  artifactKey: Guid(bb8e5b61ab758094e90874901b42da1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/EventDelegateEditor.cs using Guid(bb8e5b61ab758094e90874901b42da1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9839ce97094cab985bd35f9f6dbbd638') in 0.008417 seconds
+  Import took 0.013388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenTransformEditor.cs
+  artifactKey: Guid(9ff6713338f44844c82de82685521dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenTransformEditor.cs using Guid(9ff6713338f44844c82de82685521dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef20a0d5afa97a61b2cead84588302f') in 0.007519 seconds
+  Import took 0.030523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUIMenu.cs
+  artifactKey: Guid(9e55520451765634c9abb4830c2b53b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUIMenu.cs using Guid(9e55520451765634c9abb4830c2b53b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59ac64134cda74703e3c1209bf0d8eaf') in 0.007315 seconds
+  Import took 0.033303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenFOVEditor.cs
+  artifactKey: Guid(11db62d6da2a5f34590f41ebb958bd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenFOVEditor.cs using Guid(11db62d6da2a5f34590f41ebb958bd94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc16e866a08cd484e34d1caea13f768') in 0.007854 seconds
+  Import took 0.034281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs
+  artifactKey: Guid(7163253a2d8b90f4cbdd7b0630b84dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIAtlasInspector.cs using Guid(7163253a2d8b90f4cbdd7b0630b84dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ec24d950bba8f43a4828f7b5eecf03e') in 0.005907 seconds
+  Import took 0.009762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIGridEditor.cs
+  artifactKey: Guid(25768f77ff311df4280e5930a00c6a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIGridEditor.cs using Guid(25768f77ff311df4280e5930a00c6a2a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8424168ce86a87f5fe75a21342755757') in 0.006330 seconds
+  Import took 0.010979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenAlphaEditor.cs
+  artifactKey: Guid(6ca1a2b070be6f04f9dc2b6756d084ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenAlphaEditor.cs using Guid(6ca1a2b070be6f04f9dc2b6756d084ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65017f853a0e5df9a5757e6c401ac4b') in 0.008643 seconds
+  Import took 0.018874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIDragObjectEditor.cs
+  artifactKey: Guid(7b214795e1e6ed049b4f9679743d48fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIDragObjectEditor.cs using Guid(7b214795e1e6ed049b4f9679743d48fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30d523f6c05a79bbb9ce1daaec5f20df') in 0.006510 seconds
+  Import took 0.010342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenRotationEditor.cs
+  artifactKey: Guid(37920e4b9f98bd44fa1250a9d995475c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenRotationEditor.cs using Guid(37920e4b9f98bd44fa1250a9d995475c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6a6a6f4d6b625b3d9ca7173d718a06') in 0.006611 seconds
+  Import took 0.011060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUISettings.cs
+  artifactKey: Guid(06fab1249a3cb60469c68b2ee2a0701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUISettings.cs using Guid(06fab1249a3cb60469c68b2ee2a0701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc61d5fb824cb04ec60d310da4d70371') in 0.020469 seconds
+  Import took 0.024640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIButtonColorEditor.cs
+  artifactKey: Guid(911094946c3d42444ae2f537f02a998e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIButtonColorEditor.cs using Guid(911094946c3d42444ae2f537f02a998e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee25987bdb668ad3cdf707bcb6b0872') in 0.006700 seconds
+  Import took 0.011300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs
+  artifactKey: Guid(245788f199aedac469f04dfc612b041f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UICreateWidgetWizard.cs using Guid(245788f199aedac469f04dfc612b041f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b68ff40475db755a9f23f44fc7b7f161') in 0.006076 seconds
+  Import took 0.024652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIBasicSpriteEditor.cs
+  artifactKey: Guid(8bb84ce4e2503cc4d90712c5e8b16f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIBasicSpriteEditor.cs using Guid(8bb84ce4e2503cc4d90712c5e8b16f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f35de853edf3dbca5a042a71766736') in 0.006091 seconds
+  Import took 0.009901 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs
+  artifactKey: Guid(ba9d9afe888570648bcbad1b0d7a3971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIDrawCallInspector.cs using Guid(ba9d9afe888570648bcbad1b0d7a3971) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1ed87b8129666029d8b588efd5a2cfd') in 0.006915 seconds
+  Import took 0.020646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenVolumeEditor.cs
+  artifactKey: Guid(023e6404a70e48148b315cf9737211af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenVolumeEditor.cs using Guid(023e6404a70e48148b315cf9737211af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73445fbc573025f2d1f6250eab466bb3') in 0.006783 seconds
+  Import took 0.011846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenOrthoSizeEditor.cs
+  artifactKey: Guid(37cda4ddb333a6d469473d36a439d20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenOrthoSizeEditor.cs using Guid(37cda4ddb333a6d469473d36a439d20e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a73972e72858b145d558bb561e7fb256') in 0.009921 seconds
+  Import took 0.014657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUIHandles.cs
+  artifactKey: Guid(4102545b85744ff4d933400e48405407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUIHandles.cs using Guid(4102545b85744ff4d933400e48405407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7936a650deb78e45d9e3fc7685e9a14f') in 0.008007 seconds
+  Import took 0.025478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenPositionEditor.cs
+  artifactKey: Guid(5c3ed7d7dc3fe434d8fbe43ba848c7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenPositionEditor.cs using Guid(5c3ed7d7dc3fe434d8fbe43ba848c7de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17d7d46db5e9643d4cd06b74d914ba9') in 0.006827 seconds
+  Import took 0.011018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIButtonMessageEditor.cs
+  artifactKey: Guid(c44704a953b80c343a2ed6cd9ea1a77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIButtonMessageEditor.cs using Guid(c44704a953b80c343a2ed6cd9ea1a77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497ca89ec3ab6747db5226022b7f7ae7') in 0.006642 seconds
+  Import took 0.022551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/NGUI/Scripts/Editor/UI2DSpriteEditor.cs
+  artifactKey: Guid(3b58c690fc6247742b470d68991b0b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UI2DSpriteEditor.cs using Guid(3b58c690fc6247742b470d68991b0b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5df2a10323ee6a34b61b15cf255c1442') in 0.007635 seconds
+  Import took 0.012220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+  artifactKey: Guid(8a405728ee80ddd458732a8e2ac86dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs using Guid(8a405728ee80ddd458732a8e2ac86dff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '926067df6510ce5d321d101489fbdeee') in 0.006955 seconds
+  Import took 0.013616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIForwardEventsEditor.cs
+  artifactKey: Guid(852d1257bb24f5548baaa48bb3220ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIForwardEventsEditor.cs using Guid(852d1257bb24f5548baaa48bb3220ccb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2da9294ade352d5a17d29e242cffa2fa') in 0.006471 seconds
+  Import took 0.010065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000354 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIButtonEditor.cs
+  artifactKey: Guid(f5c5298e1d742444a84b57652af46ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIButtonEditor.cs using Guid(f5c5298e1d742444a84b57652af46ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ae65e476beb666c1366334b5ff0fa1c') in 0.007050 seconds
+  Import took 0.011428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/NGUI/Scripts/Editor/EventDelegateDrawer.cs
+  artifactKey: Guid(919314d918a245a4bb343f8a5dfcaa97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/EventDelegateDrawer.cs using Guid(919314d918a245a4bb343f8a5dfcaa97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67773f919dacf8389f9cbf9cec690b89') in 0.006123 seconds
+  Import took 0.010085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIFontInspector.cs
+  artifactKey: Guid(a1bf769ed077fac4b821591f35174d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIFontInspector.cs using Guid(a1bf769ed077fac4b821591f35174d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba0fac6c4fcb141ce79aa55d4e1795c') in 0.006419 seconds
+  Import took 0.015007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenHeightEditor.cs
+  artifactKey: Guid(4c135e5506eb921409b47fa6543134ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenHeightEditor.cs using Guid(4c135e5506eb921409b47fa6543134ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f06d56cfb09f59a0018c03b94c226ac') in 0.007230 seconds
+  Import took 0.011636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenWidthEditor.cs
+  artifactKey: Guid(d35cd8e39586acb4a842a0c77019d598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenWidthEditor.cs using Guid(d35cd8e39586acb4a842a0c77019d598) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78495132a956fe9890ce372167b65a8d') in 0.005989 seconds
+  Import took 0.021879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs
+  artifactKey: Guid(9997db2c14b24cd4d94a8ebb76fff1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUITransformInspector.cs using Guid(9997db2c14b24cd4d94a8ebb76fff1f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281c35a9b08b9e525dcfa6e80bde3056') in 0.005952 seconds
+  Import took 0.068778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUISnap.cs
+  artifactKey: Guid(fa846fbc3d8dc874295406a55de7e200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUISnap.cs using Guid(fa846fbc3d8dc874295406a55de7e200) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4557385b1531413fc10310dea9d749e') in 0.007292 seconds
+  Import took 0.011445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs
+  artifactKey: Guid(6640bfdeeb55c3846ae12d39c4be16c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIAtlasMaker.cs using Guid(6640bfdeeb55c3846ae12d39c4be16c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4f1c07d8476cb32d282565db1f8ce3f') in 0.006126 seconds
+  Import took 0.011035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIEventTriggerEditor.cs
+  artifactKey: Guid(8342876081aa9364485fc9d21d5f481f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIEventTriggerEditor.cs using Guid(8342876081aa9364485fc9d21d5f481f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e601dbafc75cd493afeb238df8cef956') in 0.006527 seconds
+  Import took 0.010736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUIHelp.cs
+  artifactKey: Guid(4be77d5f0fc53034eb1f99be556de17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUIHelp.cs using Guid(4be77d5f0fc53034eb1f99be556de17f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7304f79a96da715683a2ab7bd6c829') in 0.008119 seconds
+  Import took 0.012004 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/NGUI/Scripts/Editor/BMFontReader.cs
+  artifactKey: Guid(8e158bb7b8285214086ac67290f0cecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/BMFontReader.cs using Guid(8e158bb7b8285214086ac67290f0cecd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c977e8065325ab4470f4caa981187a0') in 0.006763 seconds
+  Import took 0.010691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/NGUI/Scripts/Editor/UICameraTool.cs
+  artifactKey: Guid(395f00539de3dd44e8e1dffd3531a1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UICameraTool.cs using Guid(395f00539de3dd44e8e1dffd3531a1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e95648096164e9921df2cc9fb87a4d3') in 0.007382 seconds
+  Import took 0.050922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUIContextMenu.cs
+  artifactKey: Guid(5cc4eee160da88443a1fbb257749ca15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUIContextMenu.cs using Guid(5cc4eee160da88443a1fbb257749ca15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37a63bd14db1a598acdd59540f76d039') in 0.006677 seconds
+  Import took 0.010483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUIJson.cs
+  artifactKey: Guid(d03d26915d3a63542807ee5e560595e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUIJson.cs using Guid(d03d26915d3a63542807ee5e560595e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25f6b3429c804e9c3bc020495fb3a75d') in 0.007875 seconds
+  Import took 0.014236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/NGUI/Scripts/Editor/ComponentSelector.cs
+  artifactKey: Guid(a5a2a079a3e532341bc353243c67d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/ComponentSelector.cs using Guid(a5a2a079a3e532341bc353243c67d9be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d06636d17eadc05568316172a2eea95') in 0.006990 seconds
+  Import took 0.010730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIFontMaker.cs
+  artifactKey: Guid(e14f05c1fecce3c489e85a9d53b8c9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIFontMaker.cs using Guid(e14f05c1fecce3c489e85a9d53b8c9a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f51444dd677971ce7d29d12a65a23c1') in 0.008012 seconds
+  Import took 0.011621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIAnchorEditor.cs
+  artifactKey: Guid(0ea085d118cd5e4419b53cd2a6037c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIAnchorEditor.cs using Guid(0ea085d118cd5e4419b53cd2a6037c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddaf6c1ea42daf586c29271fb5d09b17') in 0.006134 seconds
+  Import took 0.009903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs
+  artifactKey: Guid(4e758c1de6cfd8b498cd2526d5b629df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUIEditorTools.cs using Guid(4e758c1de6cfd8b498cd2526d5b629df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d96ff7756e64804f25ee572b3c4075d') in 0.006575 seconds
+  Import took 0.011201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUIEditorExtensions.cs
+  artifactKey: Guid(3c4443a8d3d2c6d4ea480a08299aaceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUIEditorExtensions.cs using Guid(3c4443a8d3d2c6d4ea480a08299aaceb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c9ef4cda52c246209c00e8b88e22e4') in 0.020501 seconds
+  Import took 0.024814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/NGUI/Scripts/Editor/PropertyBindingEditor.cs
+  artifactKey: Guid(e580c777427c3a64983b83b4858c68e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/PropertyBindingEditor.cs using Guid(e580c777427c3a64983b83b4858c68e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f1cb057bbeaded627d2af37fe35061') in 0.007551 seconds
+  Import took 0.019295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/NGUI/Scripts/Editor/SpriteSelector.cs
+  artifactKey: Guid(623be2c02ff0ce24d83ce440e4fa393d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/SpriteSelector.cs using Guid(623be2c02ff0ce24d83ce440e4fa393d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9522bbbe68e4de874706bb7bc6414ba4') in 0.006306 seconds
+  Import took 0.009887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/NGUI/Scripts/Editor/PropertyReferenceDrawer.cs
+  artifactKey: Guid(788be684805fb7f4bb044f3cdf3206be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/PropertyReferenceDrawer.cs using Guid(788be684805fb7f4bb044f3cdf3206be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4e40f67a91a4fcb2b342b321638bea3') in 0.008058 seconds
+  Import took 0.012343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIButtonKeysEditor.cs
+  artifactKey: Guid(ebef6265308ce534dbdb180b5240c568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIButtonKeysEditor.cs using Guid(ebef6265308ce534dbdb180b5240c568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2bcbf2c354a5ff14539b11d32e78c1b') in 0.005870 seconds
+  Import took 0.013301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs
+  artifactKey: Guid(d900a06197aa6b841b6f2ae5d629f2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UICreateNewUIWizard.cs using Guid(d900a06197aa6b841b6f2ae5d629f2f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db260622920291dbabc9ff15d21bdf48') in 0.007811 seconds
+  Import took 0.011731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/NGUI/Scripts/Editor/UIDrawCallViewer.cs
+  artifactKey: Guid(dfd51f6d22e704742bbfa42849ad6d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UIDrawCallViewer.cs using Guid(dfd51f6d22e704742bbfa42849ad6d43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0dd65b3a226b4f053cc079f9da51aca') in 0.006355 seconds
+  Import took 0.010898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/NGUI/Scripts/Editor/FreeType.cs
+  artifactKey: Guid(2276a2bded84b474baf9d0cab753c900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/FreeType.cs using Guid(2276a2bded84b474baf9d0cab753c900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e69f168479843c6c3ca3cdaf4f99262f') in 0.006534 seconds
+  Import took 0.010990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenScaleEditor.cs
+  artifactKey: Guid(50b7b0504ae552a42b20841c085dc185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenScaleEditor.cs using Guid(50b7b0504ae552a42b20841c085dc185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff46ccc0ce4718285f6a1f3b0cc2be7b') in 0.009909 seconds
+  Import took 0.014972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/NGUI/Scripts/Editor/TweenColorEditor.cs
+  artifactKey: Guid(7928b5af346eed04ba391047b8b0ddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/TweenColorEditor.cs using Guid(7928b5af346eed04ba391047b8b0ddc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3daf8cad7447d91291a8b3fd5bec9a') in 0.006256 seconds
+  Import took 0.016185 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/NGUI/Scripts/Editor/UICameraEditor.cs
+  artifactKey: Guid(d0a55f2ca4ffa1b438ee5421182da48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/UICameraEditor.cs using Guid(d0a55f2ca4ffa1b438ee5421182da48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd55b008a6eb3fb2370f23cb19cf85670') in 0.006041 seconds
+  Import took 0.011097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs
+  artifactKey: Guid(34baafa8cf35dfe4b968d22d0e7556e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NGUI/Scripts/Editor/NGUISelectionTools.cs using Guid(34baafa8cf35dfe4b968d22d0e7556e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216177799f95229ae57db2e83ef94d73') in 0.006138 seconds
+  Import took 0.010327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.584244 seconds.
+  path: Assets/Scenes/Halloween_Level/NavMesh.asset
+  artifactKey: Guid(f91f016c3595f15409d42f0bab286ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Halloween_Level/NavMesh.asset using Guid(f91f016c3595f15409d42f0bab286ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b807c3827db0b864dbef8a5fe31ccedb') in 0.120037 seconds
+  Import took 0.189927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.835162 seconds.
+  path: Assets/UI/Sprites/dialog.png
+  artifactKey: Guid(17b133003e43a8c43a34234a2117c41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/Sprites/dialog.png using Guid(17b133003e43a8c43a34234a2117c41e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80b233fa445bf0b965cfd09e9a9c730c') in 0.135754 seconds
+  Import took 0.151482 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001328 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.897 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004217 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.847 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.8 MB.
+System memory in use after: 59.6 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2377.
+Total: 2.202300 ms (FindLiveObjects: 0.401900 ms CreateObjectMapping: 0.099300 ms MarkObjects: 1.501100 ms  DeleteObjects: 0.198800 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001238 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 54.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.141 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.059846 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.5 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 2.380500 ms (FindLiveObjects: 0.385400 ms CreateObjectMapping: 0.102100 ms MarkObjects: 1.613700 ms  DeleteObjects: 0.278100 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001140 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.971 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004209 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.925 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.8 MB.
+System memory in use after: 59.6 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2385.
+Total: 2.112700 ms (FindLiveObjects: 0.377100 ms CreateObjectMapping: 0.086600 ms MarkObjects: 1.436600 ms  DeleteObjects: 0.211300 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001093 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 72.32 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.448 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004718 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.008 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 37 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.8 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2391.
+Total: 2.422300 ms (FindLiveObjects: 0.408900 ms CreateObjectMapping: 0.125700 ms MarkObjects: 1.650600 ms  DeleteObjects: 0.236000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1149.927397 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About
+  artifactKey: Guid(afa6ceb29d9072444ba7f8776cbab52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About using Guid(afa6ceb29d9072444ba7f8776cbab52a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4474e3aed22becda0c0f490d19f5c1cb') in 0.010512 seconds
+  Import took 0.014651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models
+  artifactKey: Guid(d8b298b0dfa1b4a42aa377a247276485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models using Guid(d8b298b0dfa1b4a42aa377a247276485) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a972fe81a390dd3f8cfcf7a42f71c59') in 0.002435 seconds
+  Import took 0.005784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts
+  artifactKey: Guid(1076d9cf8e2d2d44e9e09c32f4bd9b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts using Guid(1076d9cf8e2d2d44e9e09c32f4bd9b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a631df78c8d16c07c933cd6997885449') in 0.017618 seconds
+  Import took 0.022327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.617597 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials
+  artifactKey: Guid(b6b1196726f7b714abe15db06c8b5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials using Guid(b6b1196726f7b714abe15db06c8b5e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2016cf3b057b7a63bfbfef23bec7dcb7') in 0.002487 seconds
+  Import took 0.032085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/unitychan.fbx
+  artifactKey: Guid(5a7853905de8e2245a5079750093f92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/unitychan.fbx using Guid(5a7853905de8e2245a5079750093f92b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52fc97c40aa17339f62ed5fa9995d15') in 0.409523 seconds
+  Import took 0.423001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.714915 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/CameraController.cs
+  artifactKey: Guid(a5c2a2b5cf701d0449f6f86cb00291d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/CameraController.cs using Guid(a5c2a2b5cf701d0449f6f86cb00291d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f198ffd2baa7bfccd993dc85b960297') in 0.007320 seconds
+  Import took 0.060644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs
+  artifactKey: Guid(1a0e0086870642049b07ce36d4fd4274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Scripts/IdleChanger.cs using Guid(1a0e0086870642049b07ce36d4fd4274) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b36526d6f7324c09e7deced0a5902c9') in 0.007779 seconds
+  Import took 0.012724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.082041 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About/AboutFightingUnity-chan.pdf
+  artifactKey: Guid(800678b67d20bde4fafb3ed23d04cafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/About/AboutFightingUnity-chan.pdf using Guid(800678b67d20bde4fafb3ed23d04cafd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a781316f0327c12ff91fd3e844d5b5') in 0.011548 seconds
+  Import took 0.041137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.538344 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/body.mat
+  artifactKey: Guid(110aacb5310186d4e81cb48108821b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/body.mat using Guid(110aacb5310186d4e81cb48108821b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '418b039ab72587b22cf93d488ef1d444') in 0.102642 seconds
+  Import took 0.122255 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyeline.mat
+  artifactKey: Guid(503460e7f1bdc17488d5204c800a77d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyeline.mat using Guid(503460e7f1bdc17488d5204c800a77d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8218f5fd744f0dcba428eadb8d382ad5') in 0.014501 seconds
+  Import took 0.018197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/face.mat
+  artifactKey: Guid(839e07baa43499649828cb875f5db950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/face.mat using Guid(839e07baa43499649828cb875f5db950) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4cc835b9f4c1a7e8a027d55743ff8d5') in 0.019629 seconds
+  Import took 0.024480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyebase.mat
+  artifactKey: Guid(675eecaf15e5d614aa3b9cae78e1661b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eyebase.mat using Guid(675eecaf15e5d614aa3b9cae78e1661b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7cab66f160ae30fe9cc6e60a3aca58f') in 0.022386 seconds
+  Import took 0.027156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_R1.mat
+  artifactKey: Guid(6a5aa31d7c43f7f40a833bd34565e080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_R1.mat using Guid(6a5aa31d7c43f7f40a833bd34565e080) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e8d34c051e0bf8f2dce7881474a466') in 0.022309 seconds
+  Import took 0.026426 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/hair.mat
+  artifactKey: Guid(98bd93ab5daaa384ea7990009cf31ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/hair.mat using Guid(98bd93ab5daaa384ea7990009cf31ee3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f11de7e68ce1b3ddfe833df5a1c1907') in 0.022249 seconds
+  Import took 0.027233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_L1.mat
+  artifactKey: Guid(625237c3b9d28b04a8740bf89b3376be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/eye_L1.mat using Guid(625237c3b9d28b04a8740bf89b3376be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78af3d8539fc6a8d3c95c5a54bf7e5e3') in 0.025599 seconds
+  Import took 0.029743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/mat_cheek.mat
+  artifactKey: Guid(3316eefd920f0104bbb5d649762b7471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/mat_cheek.mat using Guid(3316eefd920f0104bbb5d649762b7471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79e4313a270a4e1fb59415ef17dad4b7') in 0.013182 seconds
+  Import took 0.030094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/skin1.mat
+  artifactKey: Guid(5d51b23dfbf5ec847868ce181aa49f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset/Models/Materials/skin1.mat using Guid(5d51b23dfbf5ec847868ce181aa49f6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4b5dbed35f25b74a24ef09379747d0') in 0.016401 seconds
+  Import took 0.021121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.369892 seconds.
+  path: Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset
+  artifactKey: Guid(0440650a6f346ab48b39ccaa7749463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FightingUnityChan_FreeAsset/FightingUnityChan_FreeAsset using Guid(0440650a6f346ab48b39ccaa7749463c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a37c6b3477dae9083d18c3a5c7e161') in 0.005645 seconds
+  Import took 0.009389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.175653 seconds.
+  path: Assets/Fantasy Chess RPG Character - Arthur
+  artifactKey: Guid(d03f6938ea054fb4e82204133c4c856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Chess RPG Character - Arthur using Guid(d03f6938ea054fb4e82204133c4c856d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50882337118aad5898d6827bf56d1bad') in 0.006938 seconds
+  Import took 0.011351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1
+  artifactKey: Guid(f9b2a18cc919af2498a84725afac5c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JJ_Oriental Fantasy Character - Berserker Grade 0_v1.1 using Guid(f9b2a18cc919af2498a84725afac5c72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '381952c6f9c098718269148bd84492f5') in 0.007260 seconds
+  Import took 0.013476 seconds .
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001089 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 107.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.220 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005007 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.057 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2394.
+Total: 2.539300 ms (FindLiveObjects: 0.484300 ms CreateObjectMapping: 0.130600 ms MarkObjects: 1.704200 ms  DeleteObjects: 0.218900 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001113 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004241 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.071 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2398.
+Total: 3.832900 ms (FindLiveObjects: 1.019100 ms CreateObjectMapping: 0.171900 ms MarkObjects: 2.369800 ms  DeleteObjects: 0.269500 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001107 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.066 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004143 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.013 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.6 MB.
+System memory in use after: 59.5 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2402.
+Total: 2.359600 ms (FindLiveObjects: 0.399300 ms CreateObjectMapping: 0.100500 ms MarkObjects: 1.613100 ms  DeleteObjects: 0.245600 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001066 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 53.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.122 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004291 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.047 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2406.
+Total: 2.799900 ms (FindLiveObjects: 0.426500 ms CreateObjectMapping: 0.097500 ms MarkObjects: 2.036100 ms  DeleteObjects: 0.238900 ms)
+
+========================================================================
+Received Prepare
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Cannot set VR devices because the platform passed isn't supported by Unity.
+
+Reloading mono domain
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity/2020.2.0b7/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001099 seconds.
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004363 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\unity\New Unity Project (2)\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 35 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.9 MB.
+System memory in use after: 59.7 MB.
+
+Unloading 34 unused Assets to reduce memory usage. Loaded Objects now: 2410.
+Total: 4.307400 ms (FindLiveObjects: 0.600200 ms CreateObjectMapping: 0.311100 ms MarkObjects: 3.082800 ms  DeleteObjects: 0.311600 ms)
+
